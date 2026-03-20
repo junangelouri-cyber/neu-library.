@@ -1,0 +1,5 @@
+:root { --neu-green: #006837; --neu-green-100: #e4f5ea; }
+body { background: linear-gradient(145deg, #f6fbf8 0%, #ecf8ef 50%, #ffffff 100%); }
+.glass { background: rgba(255,255,255,0.72); backdrop-filter: blur(12px); border: 1px solid rgba(255,255,255,0.6); }
+.logo { color: var(--neu-green); }
+.active-tab { border-left: 4px solid var(--neu-green); background-color: #f2fdf6; }
